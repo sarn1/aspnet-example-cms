@@ -20,3 +20,5 @@ C:\Users\sarnphamornsuwana\Source\Repos\aspnet-example-cms\MvcCms\MvcCms\bin\Sys
 C:\Users\sarnphamornsuwana\Source\Repos\aspnet-example-cms\MvcCms\MvcCms\bin\System.Web.Mvc.xml
 C:\Users\sarnphamornsuwana\Source\Repos\aspnet-example-cms\MvcCms\MvcCms\obj\Debug\MvcCms.dll
 C:\Users\sarnphamornsuwana\Source\Repos\aspnet-example-cms\MvcCms\MvcCms\obj\Debug\MvcCms.pdb
+C:\Users\sarnphamornsuwana\Source\Repos\aspnet-example-cms\MvcCms\MvcCms\bin\Telerik.JustMock.dll
+C:\Users\sarnphamornsuwana\Source\Repos\aspnet-example-cms\MvcCms\MvcCms\bin\Telerik.JustMock.xml
