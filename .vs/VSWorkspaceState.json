@@ -1,6 +1,13 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\MvcCms",
+    "\\MvcCms\\MvcCms",
+    "\\MvcCms\\MvcCms\\Areas",
+    "\\MvcCms\\MvcCms\\Areas\\Admin",
+    "\\MvcCms\\MvcCms\\Areas\\Admin\\Controllers",
+    "\\MvcCms\\MvcCms\\Areas\\Admin\\Models",
+    "\\MvcCms\\MvcCms\\Models"
   ],
   "PreviewInSolutionExplorer": false
 }

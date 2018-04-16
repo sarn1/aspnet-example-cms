@@ -1,24 +1,83 @@
-C:\Users\sarnphamornsuwana\source\repos\aspnet-example-cms\MvcCms\MvcCms\obj\Debug\MvcCms.csprojResolveAssemblyReference.cache
-C:\Users\sarnphamornsuwana\source\repos\aspnet-example-cms\MvcCms\MvcCms\obj\Debug\MvcCms.csproj.CoreCompileInputs.cache
+C:\Users\Jeremy McPeak\documents\visual studio 2013\Projects\MvcCms\MvcCms\bin\MvcCms.dll.config
+C:\Users\Jeremy McPeak\documents\visual studio 2013\Projects\MvcCms\MvcCms\bin\MvcCms.dll
+C:\Users\Jeremy McPeak\documents\visual studio 2013\Projects\MvcCms\MvcCms\bin\MvcCms.pdb
+C:\Users\Jeremy McPeak\documents\visual studio 2013\Projects\MvcCms\MvcCms\bin\System.Web.Helpers.dll
+C:\Users\Jeremy McPeak\documents\visual studio 2013\Projects\MvcCms\MvcCms\bin\System.Web.Mvc.dll
+C:\Users\Jeremy McPeak\documents\visual studio 2013\Projects\MvcCms\MvcCms\bin\System.Web.Razor.dll
+C:\Users\Jeremy McPeak\documents\visual studio 2013\Projects\MvcCms\MvcCms\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Jeremy McPeak\documents\visual studio 2013\Projects\MvcCms\MvcCms\bin\System.Web.Webpages.dll
+C:\Users\Jeremy McPeak\documents\visual studio 2013\Projects\MvcCms\MvcCms\bin\System.Web.Webpages.Razor.dll
+C:\Users\Jeremy McPeak\documents\visual studio 2013\Projects\MvcCms\MvcCms\bin\System.Web.Razor.xml
+C:\Users\Jeremy McPeak\documents\visual studio 2013\Projects\MvcCms\MvcCms\bin\System.Web.Webpages.xml
+C:\Users\Jeremy McPeak\documents\visual studio 2013\Projects\MvcCms\MvcCms\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Jeremy McPeak\documents\visual studio 2013\Projects\MvcCms\MvcCms\bin\System.Web.Webpages.Razor.xml
+C:\Users\Jeremy McPeak\documents\visual studio 2013\Projects\MvcCms\MvcCms\bin\System.Web.Helpers.xml
+C:\Users\Jeremy McPeak\documents\visual studio 2013\Projects\MvcCms\MvcCms\bin\System.Web.Mvc.xml
+C:\Users\Jeremy McPeak\documents\visual studio 2013\Projects\MvcCms\MvcCms\obj\Debug\MvcCms.csprojResolveAssemblyReference.cache
+C:\Users\Jeremy McPeak\documents\visual studio 2013\Projects\MvcCms\MvcCms\obj\Debug\MvcCms.dll
+C:\Users\Jeremy McPeak\documents\visual studio 2013\Projects\MvcCms\MvcCms\obj\Debug\MvcCms.pdb
+C:\Users\Jeremy McPeak\Documents\Visual Studio 2013\Projects\MvcCms\MvcCms\bin\EntityFramework.dll
+C:\Users\Jeremy McPeak\Documents\Visual Studio 2013\Projects\MvcCms\MvcCms\bin\EntityFramework.SqlServer.dll
+C:\Users\Jeremy McPeak\Documents\Visual Studio 2013\Projects\MvcCms\MvcCms\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Jeremy McPeak\Documents\Visual Studio 2013\Projects\MvcCms\MvcCms\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Jeremy McPeak\Documents\Visual Studio 2013\Projects\MvcCms\MvcCms\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Jeremy McPeak\Documents\Visual Studio 2013\Projects\MvcCms\MvcCms\bin\Microsoft.Owin.dll
+C:\Users\Jeremy McPeak\Documents\Visual Studio 2013\Projects\MvcCms\MvcCms\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Jeremy McPeak\Documents\Visual Studio 2013\Projects\MvcCms\MvcCms\bin\Microsoft.Owin.Security.dll
+C:\Users\Jeremy McPeak\Documents\Visual Studio 2013\Projects\MvcCms\MvcCms\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Jeremy McPeak\Documents\Visual Studio 2013\Projects\MvcCms\MvcCms\bin\Newtonsoft.Json.dll
+C:\Users\Jeremy McPeak\Documents\Visual Studio 2013\Projects\MvcCms\MvcCms\bin\Owin.dll
+C:\Users\Jeremy McPeak\Documents\Visual Studio 2013\Projects\MvcCms\MvcCms\bin\EntityFramework.xml
+C:\Users\Jeremy McPeak\Documents\Visual Studio 2013\Projects\MvcCms\MvcCms\bin\EntityFramework.SqlServer.xml
+C:\Users\Jeremy McPeak\Documents\Visual Studio 2013\Projects\MvcCms\MvcCms\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Jeremy McPeak\Documents\Visual Studio 2013\Projects\MvcCms\MvcCms\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Jeremy McPeak\Documents\Visual Studio 2013\Projects\MvcCms\MvcCms\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Jeremy McPeak\Documents\Visual Studio 2013\Projects\MvcCms\MvcCms\bin\Microsoft.Owin.xml
+C:\Users\Jeremy McPeak\Documents\Visual Studio 2013\Projects\MvcCms\MvcCms\bin\Microsoft.Owin.Security.xml
+C:\Users\Jeremy McPeak\Documents\Visual Studio 2013\Projects\MvcCms\MvcCms\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Jeremy McPeak\Documents\Visual Studio 2013\Projects\MvcCms\MvcCms\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Jeremy McPeak\Documents\Visual Studio 2013\Projects\MvcCms\MvcCms\bin\Newtonsoft.Json.xml
+C:\Users\Jeremy McPeak\documents\visual studio 2013\Projects\MvcCms\MvcCms\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Jeremy McPeak\documents\visual studio 2013\Projects\MvcCms\MvcCms\bin\Microsoft.Owin.Host.SystemWeb.xml
 C:\Users\sarnphamornsuwana\Source\Repos\aspnet-example-cms\MvcCms\MvcCms\bin\MvcCms.dll.config
 C:\Users\sarnphamornsuwana\Source\Repos\aspnet-example-cms\MvcCms\MvcCms\bin\MvcCms.dll
 C:\Users\sarnphamornsuwana\Source\Repos\aspnet-example-cms\MvcCms\MvcCms\bin\MvcCms.pdb
-C:\Users\sarnphamornsuwana\Source\Repos\aspnet-example-cms\MvcCms\MvcCms\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\sarnphamornsuwana\Source\Repos\aspnet-example-cms\MvcCms\MvcCms\bin\EntityFramework.dll
+C:\Users\sarnphamornsuwana\Source\Repos\aspnet-example-cms\MvcCms\MvcCms\bin\EntityFramework.SqlServer.dll
+C:\Users\sarnphamornsuwana\Source\Repos\aspnet-example-cms\MvcCms\MvcCms\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\sarnphamornsuwana\Source\Repos\aspnet-example-cms\MvcCms\MvcCms\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\sarnphamornsuwana\Source\Repos\aspnet-example-cms\MvcCms\MvcCms\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\sarnphamornsuwana\Source\Repos\aspnet-example-cms\MvcCms\MvcCms\bin\Microsoft.Owin.dll
+C:\Users\sarnphamornsuwana\Source\Repos\aspnet-example-cms\MvcCms\MvcCms\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\sarnphamornsuwana\Source\Repos\aspnet-example-cms\MvcCms\MvcCms\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\sarnphamornsuwana\Source\Repos\aspnet-example-cms\MvcCms\MvcCms\bin\Microsoft.Owin.Security.dll
+C:\Users\sarnphamornsuwana\Source\Repos\aspnet-example-cms\MvcCms\MvcCms\bin\Microsoft.Owin.Security.OAuth.dll
 C:\Users\sarnphamornsuwana\Source\Repos\aspnet-example-cms\MvcCms\MvcCms\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\sarnphamornsuwana\Source\Repos\aspnet-example-cms\MvcCms\MvcCms\bin\Newtonsoft.Json.dll
+C:\Users\sarnphamornsuwana\Source\Repos\aspnet-example-cms\MvcCms\MvcCms\bin\Owin.dll
 C:\Users\sarnphamornsuwana\Source\Repos\aspnet-example-cms\MvcCms\MvcCms\bin\System.Web.Helpers.dll
 C:\Users\sarnphamornsuwana\Source\Repos\aspnet-example-cms\MvcCms\MvcCms\bin\System.Web.Mvc.dll
 C:\Users\sarnphamornsuwana\Source\Repos\aspnet-example-cms\MvcCms\MvcCms\bin\System.Web.Razor.dll
 C:\Users\sarnphamornsuwana\Source\Repos\aspnet-example-cms\MvcCms\MvcCms\bin\System.Web.Webpages.Deployment.dll
 C:\Users\sarnphamornsuwana\Source\Repos\aspnet-example-cms\MvcCms\MvcCms\bin\System.Web.Webpages.dll
 C:\Users\sarnphamornsuwana\Source\Repos\aspnet-example-cms\MvcCms\MvcCms\bin\System.Web.Webpages.Razor.dll
-C:\Users\sarnphamornsuwana\Source\Repos\aspnet-example-cms\MvcCms\MvcCms\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\sarnphamornsuwana\Source\Repos\aspnet-example-cms\MvcCms\MvcCms\bin\EntityFramework.xml
+C:\Users\sarnphamornsuwana\Source\Repos\aspnet-example-cms\MvcCms\MvcCms\bin\EntityFramework.SqlServer.xml
+C:\Users\sarnphamornsuwana\Source\Repos\aspnet-example-cms\MvcCms\MvcCms\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\sarnphamornsuwana\Source\Repos\aspnet-example-cms\MvcCms\MvcCms\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\sarnphamornsuwana\Source\Repos\aspnet-example-cms\MvcCms\MvcCms\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\sarnphamornsuwana\Source\Repos\aspnet-example-cms\MvcCms\MvcCms\bin\Microsoft.Owin.xml
+C:\Users\sarnphamornsuwana\Source\Repos\aspnet-example-cms\MvcCms\MvcCms\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\sarnphamornsuwana\Source\Repos\aspnet-example-cms\MvcCms\MvcCms\bin\Microsoft.Owin.Security.xml
+C:\Users\sarnphamornsuwana\Source\Repos\aspnet-example-cms\MvcCms\MvcCms\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\sarnphamornsuwana\Source\Repos\aspnet-example-cms\MvcCms\MvcCms\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\sarnphamornsuwana\Source\Repos\aspnet-example-cms\MvcCms\MvcCms\bin\Newtonsoft.Json.xml
 C:\Users\sarnphamornsuwana\Source\Repos\aspnet-example-cms\MvcCms\MvcCms\bin\System.Web.Razor.xml
 C:\Users\sarnphamornsuwana\Source\Repos\aspnet-example-cms\MvcCms\MvcCms\bin\System.Web.Webpages.xml
 C:\Users\sarnphamornsuwana\Source\Repos\aspnet-example-cms\MvcCms\MvcCms\bin\System.Web.Webpages.Deployment.xml
 C:\Users\sarnphamornsuwana\Source\Repos\aspnet-example-cms\MvcCms\MvcCms\bin\System.Web.Webpages.Razor.xml
 C:\Users\sarnphamornsuwana\Source\Repos\aspnet-example-cms\MvcCms\MvcCms\bin\System.Web.Helpers.xml
 C:\Users\sarnphamornsuwana\Source\Repos\aspnet-example-cms\MvcCms\MvcCms\bin\System.Web.Mvc.xml
+C:\Users\sarnphamornsuwana\Source\Repos\aspnet-example-cms\MvcCms\MvcCms\obj\Debug\MvcCms.csproj.CoreCompileInputs.cache
 C:\Users\sarnphamornsuwana\Source\Repos\aspnet-example-cms\MvcCms\MvcCms\obj\Debug\MvcCms.dll
 C:\Users\sarnphamornsuwana\Source\Repos\aspnet-example-cms\MvcCms\MvcCms\obj\Debug\MvcCms.pdb
-C:\Users\sarnphamornsuwana\Source\Repos\aspnet-example-cms\MvcCms\MvcCms\bin\Telerik.JustMock.dll
-C:\Users\sarnphamornsuwana\Source\Repos\aspnet-example-cms\MvcCms\MvcCms\bin\Telerik.JustMock.xml
