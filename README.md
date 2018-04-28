@@ -1,5 +1,5 @@
-﻿﻿# example-aspnet-cms
-  https://code.tutsplus.com/courses/building-a-cms-with-aspnet-mvc5
+# example-aspnet-cms
+https://code.tutsplus.com/courses/building-a-cms-with-aspnet-mvc5
 
 # Additional Notes #
 - Admin was created by right clicking and create new area
